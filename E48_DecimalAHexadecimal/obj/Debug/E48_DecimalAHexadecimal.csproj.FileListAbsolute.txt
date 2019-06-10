@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\bin\Debug\E48_DecimalAHexadecimal.exe.config
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\bin\Debug\E48_DecimalAHexadecimal.exe
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\bin\Debug\E48_DecimalAHexadecimal.pdb
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\obj\Debug\E48_DecimalAHexadecimal.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\obj\Debug\E48_DecimalAHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\obj\Debug\E48_DecimalAHexadecimal.exe
+C:\Users\Yesica Moreno\source\repoS10\E48_DecimalAHexadecimal\E48_DecimalAHexadecimal\obj\Debug\E48_DecimalAHexadecimal.pdb
